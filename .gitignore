@@ -1,0 +1,5 @@
+#ignore le fichier .env
+.env
+#ignore les fichiers .txt
+*.txt
+
